@@ -1,0 +1,73 @@
+:Base cosmos.hlp>main
+:Title COSMOS Help
+1 Getting Started
+2 Using This Guide=IDH_using_this_guide
+2 Hardware Requirements=IDH_hardware_requirements
+2 Software Requirements=IDH_software_requirements
+2 Product Information=IDH_product_information
+2 Starting COSMOS=IDH_starting_cosmos
+1 Introducing COSMOS
+2 The COSMOS Planning Tool=IDH_the_cosmos_planning_tool
+2 Function Point Analysis=IDH_function_point_analysis
+2 Effort Estimation via COCOMO=IDH_effort_estimation_via_cocomo
+2 Effort Estimation via Rayleigh=IDH_effort_estimation_via_rayleigh
+2 Projects=IDH_projects
+2 Systems=IDH_systems
+1 Understanding COSMOS Basics
+2 Menu Bar=IDH_menu_bar
+2 Tool Bar=IDH_tool_bar
+2 File Menu=IDH_file_menu
+2 View Menu=IDH_view_menu
+2 Project Menu=IDH_project_menu
+2 System Menu=IDH_system_menu
+2 Function Point Menu=IDH_function_point_menu
+2 COCOMO Menu=IDH_cocomo_menu
+2 Rayleigh Menu=IDH_rayleigh_menu
+2 Options Menu=IDH_options_menu
+2 Window Menu=IDH_window_menu
+2 Help Menu=IDH_help_menu
+1 Managing Stand-Alone Models
+2 Creating a New Model=IDH_creating_a_new_model
+2 Updating an Existing Model=IDH_updating_an_existing_model
+2 Entering Model Data=IDH_entering_model_data
+2 Saving a Model=IDH_saving_a_model
+2 Closing a Model=IDH_closing_a_model
+2 Exiting COSMOS=IDH_exiting_cosmos
+1 Managing Projects
+2 Creating a New Project=IDH_creating_a_new_project>main
+2 Updating an Existing Project=IDH_updating_an_existing_project
+2 Entering Project Data=IDH_entering_project_data
+2 Saving a Project=IDH_saving_a_project
+2 Closing a Project=IDH_closing_a_project
+2 Exiting COSMOS=IDH_n1_exiting_cosmos
+1 Managing Systems
+2 Creating a New System=IDH_creating_a_new_system
+2 Updating an Existing System=IDH_updating_an_existing_system
+2 Entering System Data=IDH_entering_system_data
+2 Saving a System=IDH_saving_a_system
+2 Closing a System=IDH_closing_a_system
+2 Exiting COSMOS=IDH_exiting_cosmos_sys
+1 Using Advanced COSMOS Features
+2 Sensitivity Analysis=IDH_n1_sensitivity_analysis
+2 Reverse Engineering=IDH_n1_reverse_engineering
+1 Printing
+2 Printing Models/Projects=IDH_printing_models_projects
+2 Previewing=IDH_previewing
+2 Setting Up Your Printer=IDH_setting_up_your_printer
+1 COSMOS System Messages
+2 Message Boxes=IDH_message_boxes>main
+2 About Message Box=IDH_about_message_box
+2 Bad File Type Message Box=IDH_bad_file_type_message_box
+2 Close Message Box=IDH_close_message_box
+2 Function Point Initialization Message Box=IDH_function_point_initialization_message
+2 COCOMO Initialization Message Box=IDH_cocomo_initialization_message_box
+2 Rayleigh Initialization Message Box=IDH_rayleigh_initialization_message_box
+2 Integer Message Box=IDH_integer_message_box
+2 Load Languages for Customization Message Box=IDH_load_languages_for_customization_message
+2 Project Initialization Message Box=IDH_project_initialization_message_box
+2 Save As Message Box=IDH_save_as_message_box
+2 COSMOS.INI File Not Found Message Box=IDH_cosmos_ini_file_not_found_message
+1 Troubleshooting
+2 Correcting System Errors=IDH_correcting_system_errors
+1 References
+2 List of References=IDH_list_of_references

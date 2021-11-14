@@ -1,0 +1,26 @@
+:Base tutorial.hlp>main
+:Title COSMOS Tutorial
+1 Using the Tutorial
+2 Introduction=IDH_introduction
+1 Main Application Window
+2 Status Bar=IDH_status_bar
+2 Toolbar=IDH_toolbar
+1 Working with Projects
+2 Creating a New Project=IDH_creating_a_new_project
+2 Saving Your Project=IDH_saving_your_project
+1 Function Point Model
+2 Function Point Counts=IDH_function_counts
+2 Value Adjustment Factor=IDH_value_adjustment_factor
+1 COCOMO Model
+2 Choosing the COCOMO Model and Development Mode=IDH_choosing_the_cocomo_model_and_development
+2 Cost Driver Attributes=IDH_cost_driver_attributes
+1 Rayleigh Model
+2 Rayleigh Attributes=IDH_rayleigh_attributes
+1 Interpreting Your Results
+2 Project Summary Information=IDH_project_summary_information
+2 Display Options - filtering=IDH_display_options___filtering
+1 Finishing  the Tutorial
+2 Saving Your Project=IDH_n1_saving_your_project
+2 Printing Project Information=IDH_printing_project_information
+2 Exiting COSMOS=IDH_exiting_cosmos
+2 Where to go from Here=IDH_where_to_go_from_here
